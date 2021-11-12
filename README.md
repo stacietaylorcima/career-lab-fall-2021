@@ -9,7 +9,7 @@
 | ---------------- | ----- | -------------------------------------------------------------------------------------------------------- |
 | -----            | Sync  | [Career Lab Orientation](./session-docs/orientation.md)                                                  |
 | -----            | Async | [What to include on your Linkedin profile](./session-docs/what-to-include-on-linkedin.md)                |
-| -----            | Sync  | [How to tell your story](./session-docs/how-to-tell-your-story.md)                                       |
+| Tues, Nov 30 at 7AM PT           | Sync  | [How to tell your story](./session-docs/how-to-tell-your-story.md)                                       |
 | -----            | Sync  | [Intro to the takehome assignement](./session-docs/intro-to-take-home.md)                                |
 | -----            | Sync  | [Linkedin Profile Q&A](./session-docs/linkedin-qanda.md)                                                 |
 | -----            | Async | [Mentors review Linkedin profiles](./session-docs/mentor-linkedin-review.md)                             |
